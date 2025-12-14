@@ -1,5 +1,5 @@
 # naughty-lilygo-dongle
-A PlatformIO setup to start testing with the T-Dongle S3 of LILYGO
+A Arduino IDE setup to start testing with the T-Dongle S3 of LILYGO
 
 
 <h1>Get started by going to: "./start-here"</h1>
