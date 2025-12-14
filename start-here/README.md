@@ -29,6 +29,7 @@
 <p>Now we removed the example firmware, we will flash the most recent firmware to it</p>
 <p>Go to the official Github repo:</p>
 <code>https://github.com/Xinyuan-LilyGO/T-Dongle-S3/tree/main</code>
+<p>(If the repo is offline for some reason, goto "./binaries" in this repo for a copy of the firmware + installer)</p>
 <p>And download the repo as a .zip</p>
 <p>Unpack the zip file (folder "T-Dongle-S3-main" expected as result)</p>
 <p>Now, in the unzipped folder, goto the "firmware" sub-folder</p>
